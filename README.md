@@ -4,7 +4,7 @@ This project provides sample code to quickly access data via APIs.
 
 ### Current APIs
 
-* [Wundeground](#Wunderground)
+* [Wundeground](#wunderground)
 
 ## Usage
 
