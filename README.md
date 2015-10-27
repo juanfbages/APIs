@@ -38,5 +38,5 @@ end_date = dt.date(2015,1,1)
 ``` 
 For the purpose of this example, I limit the number of variables included in the output. Feel free to add or remove any variables as needed. This can be done by adding elements to the ```wx_vars``` list. A comprehensive list of features included for historical data can be found [here](http://www.wunderground.com/weather/api/d/docs?d=data/history&MR=1). 
 
-While the script targets historic data, the structure can be easily adapted to retrieve any other data feature provided through Wundeground's API.
+While the script targets historic data, the structure can be easily adapted to retrieve any other [data feature](http://www.wunderground.com/weather/api/d/docs?d=data/index) provided through Wundeground's API.
 
