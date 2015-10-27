@@ -1,6 +1,6 @@
 ## Description
 
-This project provides sample code to quickly access data via APIs.
+This project provides sample code to quickly access data via APIs. I will try to update scripts as APIs change and also to include additional features.
 
 ### Current APIs
 
