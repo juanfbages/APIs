@@ -51,6 +51,7 @@ def main():
             tmp_wx.insert(1, hour_data['date']['hour'])
             weather_data.append(tmp_wx)
     t.close()
+    # Delay running to comply with call limit (10 per minute)
     time.sleep(7)
 
     # Write it to csv
