@@ -8,7 +8,7 @@ def main():
     # Set up date and key information
     city = 'Washington'
     state = 'DC'
-    api_key = 'Insert API Key ere'
+    api_key = 'Insert API Key here'
     # Date format (YYYY, M, D)
     start_date = dt.date(2014,1,1)
     end_date = dt.date(2015,1,1)
